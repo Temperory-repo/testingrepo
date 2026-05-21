@@ -1,0 +1,5 @@
+. filter=lfs diff=lfs merge=lfs -text
+torr/data filter=lfs diff=lfs merge=lfs -text
+torr/debug filter=lfs diff=lfs merge=lfs -text
+torr/docs filter=lfs diff=lfs merge=lfs -text
+torr/tor filter=lfs diff=lfs merge=lfs -text
